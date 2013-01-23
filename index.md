@@ -1,7 +1,7 @@
 ---
 title       : Probability machines
 subtitle    : Risk estimation in a post-parameter world
-author      : Abhijit Dasgupta & James Malley
+author      : Abhijit Dasgupta and James Malley
 job         : 
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
