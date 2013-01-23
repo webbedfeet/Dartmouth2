@@ -184,7 +184,7 @@ We have individual $p_1$ and $p_0$, so we can directly compute
 
 ---
 
-## Multiple machines model
+## Counterfactual machine
 
 ### What about interactions?
 
@@ -202,7 +202,7 @@ $$\frac{p_{11}(1-p_{10})}{p_{10}(1-p_{11})}/\frac{p_{01}(1-p_{00})}{p_{00}(1-p_{
 
 ---
 
-## Multiple machines models
+## Counterfactual machine
 
 <img src="figure/Fig5a.png" style="width:450px; float: left; margin-bottom: 15px; margin-right:3px">
 <img src="figure/Fig5b.png" style="width:450px; float: left; margin-bottom: 15px; margin-right:3px">
