@@ -8,7 +8,7 @@ highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : mathjax            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
---- bg:url(figure/Ratu-Boko-Yogya.jpg) 
+--- bg:url(figure/gates-blog.jpg) 
 
 <h2 style="color:red;text-align:center;width:100%;position:absolute;line-height:100px">Gates to the post-parameter world!!!</h2>
 
