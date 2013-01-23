@@ -83,7 +83,7 @@ The counterfactual argument is, in essence
 
 ---
 
-## Counterfactual machine
+## Risk machine
 
 + PM$_1$ captures the landscape for X=1
 + PM$_0$ captures the landscape for X=0
@@ -175,7 +175,7 @@ Logistic regression (the industry standard) gives us odds ratios (the industry s
 
 ---
 
-## Counterfactual machine
+## Risk machine
 
 We have individual $p_1$ and $p_0$, so we can directly compute 
 
@@ -184,7 +184,7 @@ We have individual $p_1$ and $p_0$, so we can directly compute
 
 ---
 
-## Counterfactual machine
+## Risk machine
 
 ### What about interactions?
 
@@ -202,7 +202,7 @@ $$\frac{p_{11}(1-p_{10})}{p_{10}(1-p_{11})}/\frac{p_{01}(1-p_{00})}{p_{00}(1-p_{
 
 ---
 
-## Counterfactual machine
+## Risk machine
 
 <img src="figure/Fig5a.png" style="width:450px; float: left; margin-bottom: 15px; margin-right:3px">
 <img src="figure/Fig5b.png" style="width:450px; float: left; margin-bottom: 15px; margin-right:3px">
@@ -213,7 +213,7 @@ $$\frac{p_{11}(1-p_{10})}{p_{10}(1-p_{11})}/\frac{p_{01}(1-p_{00})}{p_{00}(1-p_{
 
 ## More about interactions
 
-The Counterfactual Machine$^{TM}$ is cumbersome when you have many features.
+The Risk Machine$^{TM}$ is cumbersome when you have many features.
 
 We can actually do a faster scan of the data to find 2-way interactions
 
