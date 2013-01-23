@@ -213,11 +213,11 @@ $$\frac{p_{11}(1-p_{10})}{p_{10}(1-p_{11})}/\frac{p_{01}(1-p_{00})}{p_{00}(1-p_{
 
 ## More about interactions
 
-The Counterfactual machine is cumbersome when you have many features.
+The Counterfactual Machine$^{TM}$ is cumbersome when you have many features.
 
 We can actually do a faster scan of the data to find 2-way interactions
 
-We call it the <span style="color:blue;font-weight:bold">Interactor</span>
+We call it the <span style="color:blue;font-weight:bold">Interactor$^{TM}$</span>
 
 ---
 
